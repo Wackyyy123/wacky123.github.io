@@ -1,0 +1,26 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+
+#loginbar {
+	width: 50%;
+	height: 100%;
+	background-color: #c70a0a;
+	border: solid black;
+	margin: 300px;
+	text-align: center;
+	margin-left: 360px;
+
+}
+#btn1 {
+ background-color: whitesmoke;
+ color: black;
+ border: 2px solid black;
+ width: 100px;
+ height: 50px;
+}
+
+#btn1:hover{
+ background-color: gray;
+ color: black;
+}
